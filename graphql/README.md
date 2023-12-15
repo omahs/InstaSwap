@@ -8,7 +8,7 @@ Please follow the Ekubo indexer instructions to build the events database. https
 
 ### step 1
 
-copy the config example file,then replace the database information
+copy the config example file, then replace the database information
 ```cmd
     cp .env.example .env
 ```
