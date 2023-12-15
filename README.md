@@ -2,7 +2,7 @@
 
 ### initialize sdk
 
-To initialize sdk,fill the config first
+To initialize sdk, fill the config first
 
 ```js
 
